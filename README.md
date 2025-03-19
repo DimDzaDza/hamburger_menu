@@ -19,3 +19,5 @@ import MenuState from "@/components/dashboard/main-menu/context/MenuContext";
 </MenuState>
 ...
 ```
+![Пример меню](https://github.com/user-attachments/assets/3a006209-9342-45bd-a6e5-fb57a14e4e47)
+
